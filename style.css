@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+}
+
+main{
+    background-color:  #F3F1FF;
+    display: flex;
+    justify-content: center;
+    
+}
